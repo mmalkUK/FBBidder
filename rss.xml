@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?php echo 'dupa'; ?>
+<rss version="2.0">
+<channel>
+<title>RSS TITLE</title>
+<link>http://apps.facebook.com/466242053504055/</link>
+<description>RSS DESC</description>
+<item>
+<title>Test Auction</title>
+<link>Test Auction</link>
+<guid>http://apps.facebook.com/466242053504055/details.php?uid=CFnX1vsHFXSj2j5Ygn2XuDTXknmYSw6Ihz1bGBr6Skc,</guid>
+<pubDate>2014-03-12 20:08:36</pubDate>
+<description>Test Auction for FB Bidder</description>
+</item>
+<item>
+<title>test bin</title>
+<link>test bin</link>
+<guid>http://apps.facebook.com/466242053504055/details.php?uid=oJqu5xohlqiglCSnvvQBEUTXoRJJ7ZeMB79KcrjRQOk,</guid>
+<pubDate>2014-03-29 21:37:03</pubDate>
+<description>test</description>
+</item>
+</channel>
+</rss>
